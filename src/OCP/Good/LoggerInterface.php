@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Budaev\OCP\Good;
 
-interface AreaInterface
+interface LoggerInterface
 {
-    public function getArea();
+    public function log(): void;
 }
