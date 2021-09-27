@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Budaev\SRP\Bad\ProductManager;
+namespace Budaev\SRP\Bad;
 
 use Budaev\Common\ProductDto;
 use Budaev\Common\ProductEntity;
